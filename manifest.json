@@ -1,29 +1,26 @@
 {
-"name":"Nguyễn Trung Ios HEX Tool",
-
-"short_name":"NTrungIOS",
-
-"description":"Cyber HEX Patcher Tool",
-
-"start_url":"index.html",
-
-"display":"standalone",
-
-"orientation":"portrait",
-
-"background_color":"#000000",
-
-"theme_color":"#00ff99",
-
-
-"icons":[
-
-{
-"src":"icon.png",
-"sizes":"512x512",
-"type":"image/png"
-}
-
-]
-
+  "name": "NTRUNG IOS - Sửa File",
+  "short_name": "NTRUNG IOS",
+  "description": "NTRUNG IOS - Cute HEX Sửa File",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12121e",
+  "theme_color": "#12121e",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
